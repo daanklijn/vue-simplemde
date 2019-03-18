@@ -29,7 +29,7 @@
   "license": "MIT",
   "dependencies": {
     "marked": "^0.3.6",
-    "simplemde": "^1.11.2"
+    "daanklijn/simplemde": "^1.11.2"
   },
   "devDependencies": {
     "babel-core": "^6.0.0",
