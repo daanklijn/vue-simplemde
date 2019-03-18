@@ -1,5 +1,5 @@
 {
-  "name": "vue-simplemde",
+  "name": "@daanklijn/vue-simplemde",
   "version": "0.5.1",
   "description": "SimpleMDE - Markdown Editor component for Vue.js",
   "main": "dist/vue-simplemde.min.js",
@@ -29,7 +29,7 @@
   "license": "MIT",
   "dependencies": {
     "marked": "^0.3.6",
-    "daanklijn/simplemde-markdown-editor": "^1.11.2"
+    "@daanklijn/simplemde": "^1.11.2"
   },
   "devDependencies": {
     "babel-core": "^6.0.0",
